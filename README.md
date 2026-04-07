@@ -30,12 +30,16 @@ Test public access using the VM's public IP
 ![WINDOW2022 Image](https://github.com/user-attachments/assets/01ff9c52-4415-417d-8bd9-bbe15f66690c)
 
 **Architecture Overview**
-User (Browser) → Internet → Azure Public IP → NSG → Windows Server 2022 VM → IIS → Web Page
+User (Browser)  → Internet → Azure Public IP → NSG → Windows Server 2022 VM → IIS → Web Page
+
+
 **Key Outcomes**
 Successfully deployed a cloud-based Windows Server VM
 Configured secure remote administration using RDP
 Installed and managed IIS web server
 Hosted a publicly accessible webpage for verification
+
+
 **Skills Demonstrated**
 Azure Cloud Computing
 Windows Server Administration
