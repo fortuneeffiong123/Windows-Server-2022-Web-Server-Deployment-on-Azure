@@ -9,12 +9,14 @@ Deploy a Windows Server 2022 VM on Azure
 Configure secure RDP access (port 3389)
 Install and configure IIS web server
 Host and verify a live web page accessible from the internet
+
 **Tools & Technologies**
 Cloud Platform: Microsoft Azure
 Operating System: Windows Server 2022
 Web Server: Internet Information Services (IIS)
 Protocol: RDP (Remote Desktop Protocol)
 Networking: Public IP, Network Security Group (NSG)
+
 **Implementation Steps**
 Create Resource Group in Azure for organization
 Deploy Windows Server 2022 VM with public IP and allowed inbound ports
